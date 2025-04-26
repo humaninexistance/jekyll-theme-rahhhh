@@ -1,5 +1,6 @@
 ---
 title: Home
+layout: default
 ---
 
 # my first jekyll theme !!
